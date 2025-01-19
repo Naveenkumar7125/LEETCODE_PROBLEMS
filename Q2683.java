@@ -5,7 +5,7 @@ class Solution {
         {
             res ^= i;
         }
-        return res==0;
+        return res == 0;
 
     }
 }
