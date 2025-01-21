@@ -1,2 +1,2 @@
 # LEETCODE_PROBLEMS
-This repository contains my daily solutions to problems on LeetCode. Each day, I solve at least one problem and upload the solution here to document my progress and learning journey.
+This repository contains my daily solutions to problems on LeetCode. Each day, I solve at least one problem and upload the solution here to document my progress and learning journey...
